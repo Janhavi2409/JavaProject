@@ -14,6 +14,7 @@ public class Traversal {
         for (int i = 0; i < al.size(); i++) {
             System.out.print(al.get(i) + " ");
         }
+
         System.out.println();
 
         //Method 2
