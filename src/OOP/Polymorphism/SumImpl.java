@@ -1,4 +1,5 @@
-package OOP;
+package OOP.Polymorphism;
+
 
 class Sum {
     public int sum(int a, int b) {
@@ -22,3 +23,4 @@ public class SumImpl {
         System.out.println(s1.sum(3.4, 7.9));
     }
 }
+
