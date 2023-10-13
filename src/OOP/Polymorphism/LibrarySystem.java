@@ -11,14 +11,12 @@ class publication {
 
     Scanner sc = new Scanner(System.in);
 
+
     public void settitle(String title) {
-        //setter method for title
         this.title = title;
     }
 
-
     public void setcopies(int copies) {
-        //setter method for copies
         this.copies = copies;
     }
 
@@ -117,7 +115,6 @@ class magazine extends publication {
         System.out.println("\t" + issue_date);
     }
 }
-
 public class LibrarySystem {
 
     public static void main(String[] args) {
