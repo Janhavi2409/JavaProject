@@ -1,7 +1,6 @@
 package ExceptionHandling;
 
 import java.util.Scanner;
-
 public class DivideTwoNums {
     public static void main(String[] args) {
         try {
